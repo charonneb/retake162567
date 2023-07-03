@@ -1,12 +1,12 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dancing Script');
 
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Times New Roman, sans-serif;
+	font-family: Dancing Script, Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Times New Roman, sans-serif;
 	color: #013220;
 	background-color: #f8f8fc;
 }
